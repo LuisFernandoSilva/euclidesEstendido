@@ -1,4 +1,4 @@
-# euclidesEstendido
+# euclidesEstendido trabalho do grau A de Segurança em desenvolvimento da informação 2018/1
 A aplicação feita em java, tem como objetivo mostrar o funcionamento do equação criada por euclides dentro da criptografia RSA.
 Sendo uma extensão d0 Euclides,  que calcula os coeficientes da identidade de bezout que são números inteiros x e y tal que:
       ax+by=MDC(a,b).
